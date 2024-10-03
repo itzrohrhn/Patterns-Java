@@ -4,5 +4,5 @@
 <h2>Contents</h2>
 <ul>
   <li>Solid Rectangle</li>
-  <img scr="SolidRectangle_preview.png">
+  <img src="SolidRectangle_preview.png">
 </ul>
