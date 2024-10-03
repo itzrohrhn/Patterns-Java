@@ -2,7 +2,5 @@
 <p>Here you'll find various patterns that is implemented in JAVA programming language</p>
 
 <h2>Contents</h2>
-<ul>
-  <li>Solid Rectangle</li>
-  <img src="SolidRectangle_preview.png">
-</ul>
+Solid Rectangle
+<img src="SolidRectangle_preview.png">
