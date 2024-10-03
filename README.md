@@ -4,11 +4,11 @@
 <h2>Contents</h2>
 <ul>
   <li>
-    <strong>Solid Rectangle Pattern<strong>
+    <strong>Solid Rectangle Pattern<strong> <br>
     <img src="SolidRectangle_preview.png" >
   </li>
   <li>
-    <strong>Hollow Rectangle Pattern<strong>
+    <strong>Hollow Rectangle Pattern<strong> <br>
     <img src="HollowRectangle_preview.png">
   </li>
 </ul>
