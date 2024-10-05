@@ -15,4 +15,8 @@
     <strong>Right Half Pyramid</strong><br>
     <img src="RightHalfPyramid_preview.png">
   </li>
+  <li>
+    <strong>Left Half Pyramid</strong><br>
+    <img src="LeftHalfPyramid_preview.png">
+  </li>
 </ul>
