@@ -19,4 +19,8 @@
     <strong>Left Half Pyramid</strong><br>
     <img src="LeftHalfPyramid_preview.png">
   </li>
+  <li>
+    <strong>Inverted Right Half Pyramid</strong><br>
+    <img src="InvertedRightHalfPyramid_preview.png">
+  </li>
 </ul>
