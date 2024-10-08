@@ -24,7 +24,7 @@
     <img src="InvertedRightHalfPyramid_preview.png">
   </li>
   <li>
-    <strong>Inverted Left Half Pyramid</strong>
+    <strong>Inverted Left Half Pyramid</strong><br>
     <img src="InvertedLeftHalfPyramid_preview.png">
   </li>
 </ul>
