@@ -12,5 +12,5 @@ public class InvertedRightHalfPyramid {
             System.out.println();
         }
     }
-    
 }
+//Made with Love by Rohh </>
